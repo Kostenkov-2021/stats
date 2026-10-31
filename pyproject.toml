@@ -15,6 +15,7 @@ dependencies = [
     "scipy",
     "seaborn",
     "statsmodels",
+    "sympy>=1.14.0",
     "tqdm",
 ]
 
